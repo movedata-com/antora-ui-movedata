@@ -253,7 +253,7 @@ body {
   }
 
   .navbar-dropdown a.navbar-item {
-    padding-right: 3rem;
+    padding-right: 1rem;
   }
 
   .navbar-dropdown.is-right {

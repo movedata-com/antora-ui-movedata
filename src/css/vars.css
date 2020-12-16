@@ -1,4 +1,8 @@
 :root {
+
+  /* MoveData Colors */
+  --movedata-bg: #1351f6;
+
   /* colors */
   --color-white: #fff;
   --color-smoke-10: #fefefe;
@@ -33,7 +37,7 @@
   --panel-border-color: var(--color-smoke-90);
   --scrollbar-thumb-color: var(--color-gray-10);
   /* navbar */
-  --navbar-background: var(--color-jet-80);
+  --navbar-background: var(--movedata-bg);
   --navbar-font-color: var(--color-white);
   --navbar_hover-background: var(--color-black);
   --navbar-button-background: var(--color-white);
